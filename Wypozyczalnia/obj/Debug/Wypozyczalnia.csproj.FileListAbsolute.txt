@@ -1,0 +1,10 @@
+C:\Users\misia\OneDrive\Pulpit\Wypozyczalnia\Wypozyczalnia\bin\Debug\Wypozyczalnia.exe.config
+C:\Users\misia\OneDrive\Pulpit\Wypozyczalnia\Wypozyczalnia\bin\Debug\Wypozyczalnia.exe
+C:\Users\misia\OneDrive\Pulpit\Wypozyczalnia\Wypozyczalnia\bin\Debug\Wypozyczalnia.pdb
+C:\Users\misia\OneDrive\Pulpit\Wypozyczalnia\Wypozyczalnia\obj\Debug\Wypozyczalnia.csprojResolveAssemblyReference.cache
+C:\Users\misia\OneDrive\Pulpit\Wypozyczalnia\Wypozyczalnia\obj\Debug\Wypozyczalnia.Properties.Resources.resources
+C:\Users\misia\OneDrive\Pulpit\Wypozyczalnia\Wypozyczalnia\obj\Debug\Wypozyczalnia.csproj.GenerateResource.Cache
+C:\Users\misia\OneDrive\Pulpit\Wypozyczalnia\Wypozyczalnia\obj\Debug\Wypozyczalnia.csproj.CoreCompileInputs.cache
+C:\Users\misia\OneDrive\Pulpit\Wypozyczalnia\Wypozyczalnia\obj\Debug\Wypozyczalnia.exe
+C:\Users\misia\OneDrive\Pulpit\Wypozyczalnia\Wypozyczalnia\obj\Debug\Wypozyczalnia.pdb
+C:\Users\misia\OneDrive\Pulpit\Wypozyczalnia\Wypozyczalnia\obj\Debug\Wypozyczalnia.PokazListeKlientow.resources
